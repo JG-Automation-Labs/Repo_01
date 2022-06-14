@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7969" started-at="2022-04-28T17:51:15 IST" finished-at="2022-04-28T17:51:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7969" started-at="2022-04-28T17:51:15 IST" finished-at="2022-04-28T17:51:23 IST">
+      <class name="TestNgDemo.ActiTimeLoginDemo">
+        <test-method status="PASS" signature="ActiLogin()[pri:0, instance:TestNgDemo.ActiTimeLoginDemo@2833cc44]" name="ActiLogin" duration-ms="7903" started-at="2022-04-28T17:51:15 IST" finished-at="2022-04-28T17:51:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActiLogin -->
+      </class> <!-- TestNgDemo.ActiTimeLoginDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
